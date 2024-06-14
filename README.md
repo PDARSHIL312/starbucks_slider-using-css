@@ -16,6 +16,14 @@ This repository contains CSS styles for creating a dynamic and responsive carous
 
 The CSS provided in this repository enables the creation of a modern and visually appealing carousel and header combination. It utilizes advanced CSS techniques such as grid layout, animations, and custom fonts to enhance the user interface.
 
+## Video
+
+
+
+https://github.com/PDARSHIL312/starbucks_slider-using-css/assets/137078389/5bb89c14-4296-46dc-8a66-1624cf52e854
+
+
+
 ## Features
 
 ### 1. Header Styling
